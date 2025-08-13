@@ -1,2 +1,2 @@
-# academic
+# Academic
 academic assignments and projects
