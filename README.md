@@ -1,4 +1,4 @@
-<h1>Finance, Investments and Accounting</b></h1>
+<h1>Finance, Economics Investments and Accounting</b></h1>
 <p>Professional and academic work in the fields of Finance, Investments and Accounting
 <br>
 <h2>Introduction to Financial Accounting</h2>
