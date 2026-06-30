@@ -36,7 +36,7 @@
 <details name="fia_assignments">
   <summary><strong>Assignments</strong></summary>
    <ul style="padding-left: 30px;">
-     <li><a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">Assignment One</a></li>
+     <li><a href="[http://htmlpreview.github.io/?https://github.com/markrandyreid/academic/blob/main/assignments/neoclassical_vs_new_institutional_economics.pdf>Discussion: Positive and Normative Theories</a></li>
    </ul>    
 </details>
 
