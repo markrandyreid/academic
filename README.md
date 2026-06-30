@@ -22,3 +22,26 @@
   <ul style="padding-left: 30px;">
   </ul>
 </details>
+
+<br>
+<h2>Intermediate Microeconomic Theory</h2>
+<p>Intermediate microeconomic theory with calculus uses constrained optimization, derivatives, and Lagrangian methods to model consumer and producer behavior—utility maximization, cost minimization, and profit maximization. It covers demand/supply derivation, elasticity, equilibrium, and welfare analysis across market structures (perfect competition, monopoly, oligopoly, monopolistic competition). Calculus tools like partial derivatives and first/second-order conditions formally derive demand curves and equilibrium conditions. The course treats microeconomics as a system of constrained optimization problems rather than relying mainly on graphs and intuition.</p>
+
+<details name="fia_notes">
+  <summary><strong>Notes</strong></summary>
+  <ul style="padding-left: 30px;">
+  </ul>
+</details>
+
+<details name="fia_assignments">
+  <summary><strong>Assignments</strong></summary>
+   <ul style="padding-left: 30px;">
+     <li><a href="http://htmlpreview.github.io/?https://github.com/markrandyreid/economics/blob/main/assignments/econometrics.a1.html" target="_blank">Assignment One</a></li>
+   </ul>    
+</details>
+
+<details name="fia_exams">
+  <summary><strong>Exams</strong></summary>
+  <ul style="padding-left: 30px;">
+  </ul>
+</details>
