@@ -40,6 +40,13 @@
    </ul>    
 </details>
 
+<details name="fia_assignments">
+  <summary><strong>Assignments</strong></summary>
+   <ul style="padding-left: 30px;">
+     <li><a href="https://markrandyreid.github.io/academic/assignments/hw1.econ321.pdf" target="_blank">Homework One</a></li>
+   </ul>    
+</details>
+
 <details name="fia_exams">
   <summary><strong>Exams</strong></summary>
   <ul style="padding-left: 30px;">
